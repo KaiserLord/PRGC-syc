@@ -1,0 +1,12 @@
+2024-04-11 09:43:04,564:INFO: Model type:
+2024-04-11 09:43:04,564:INFO: device: cuda
+2024-04-11 09:43:04,564:INFO: Load pre-train model weights...
+2024-04-11 09:43:55,153:INFO: Model type:
+2024-04-11 09:43:55,153:INFO: device: cuda
+2024-04-11 09:43:55,153:INFO: Load pre-train model weights...
+2024-04-11 09:44:46,385:INFO: Model type:
+2024-04-11 09:44:46,385:INFO: device: cuda
+2024-04-11 09:44:46,385:INFO: Load pre-train model weights...
+2024-04-11 09:44:46,994:INFO: -done
+2024-04-11 09:44:46,995:INFO: Starting training for 5 epoch(s)
+2024-04-11 09:45:15,848:INFO: Epoch 1/5
